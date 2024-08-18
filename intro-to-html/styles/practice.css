@@ -1,0 +1,97 @@
+<style>
+    .uber{
+        background-color: black;
+        color: white;
+        border: none;
+        height: 35px;
+        width: 100px;
+        cursor: pointer;
+        transition: opacity 0.15s;
+    
+    }
+
+    .uber:hover {
+        opacity: 0.8;
+    }
+
+    .amazon {
+        background-color: rgba(176, 155, 37, 0.863);
+        color: black;
+        border: none;
+        height: 40px;
+        width: 200px;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+    .amazon:hover {
+        background-color: green;
+    }
+
+   .git{
+    background-color: green;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 110px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 10px 10px 20px black;
+   }
+   .git:hover {
+    opacity: 0.8;
+   }
+
+   .boot{
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    
+
+
+   }
+   .strap{
+   background-color: white;
+    color: rgb(47, 45, 45);
+    border: rgb(43, 41, 41);
+    border-radius: 4px;
+    height: 40px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    cursor: pointer;
+   }
+   .link{
+    background-color: rgb(14, 14, 96);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    height: 36px;
+    width: 200px;
+    cursor: pointer;
+   }
+   .link:hover{
+    opacity: 0.8;
+   }
+    
+   .linked{
+    background-color: white;
+    color: rgb(4, 102, 207);
+    border: none;
+    border-radius: 18px;
+    height: 36px;
+    width: 90px;
+    border-style: solid;
+    border-color: rgb(4, 102, 207);
+    cursor: pointer;
+   }
+   .libked:hover{
+    opacity: 0.8;
+   }
+    
+
+    
+</style>
